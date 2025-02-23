@@ -1,0 +1,13 @@
+{
+	"sid": 1,
+	"sname": "om prakash",
+	"sage" : 23,
+	"date" : 17122002123034,
+	"status": true,
+	"address": {
+			 	"cityName" : "Bhiali",
+			 	"countryName" : "India"
+			   }
+	
+
+}

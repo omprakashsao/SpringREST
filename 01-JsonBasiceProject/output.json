@@ -1,0 +1,12 @@
+{
+  "student" : {
+    "sage" : 23,
+    "status" : true,
+    "date" : "29-12-2512 01:12:01",
+    "address" : {
+      "cityName" : "bhilai",
+      "countryName" : "India"
+    },
+    "last_name" : "Om Prakash"
+  }
+}
